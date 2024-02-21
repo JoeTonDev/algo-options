@@ -1,1 +1,1 @@
-# algo-options
+Options trading bot written in Python.
